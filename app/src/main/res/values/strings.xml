@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="desc">Add description for your task ..</string>
+    <string name="tag">work</string>
+    <string name="save_note">Save Task</string>
+    <string name="title">Title</string>
+    <string name="color">Color</string>
+</resources>
